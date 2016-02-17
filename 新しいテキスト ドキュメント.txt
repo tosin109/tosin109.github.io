@@ -11,7 +11,7 @@
 		<dl>
 			<dt><a href="./folder1/">ì•i1</a></li></dt>
 			<dd></dd>
-			<dt><a href="./folder1/">ì•i2</a></li></dt>
+			<dt><a href="./folder2/">ì•i2</a></li></dt>
 			<dd></dd>
 		</dl>
 	</body>
