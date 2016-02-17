@@ -1,4 +1,4 @@
-﻿namespace obj_prac
+﻿namespace _1310
 {
     partial class Form1
     {
@@ -29,37 +29,37 @@
         private void InitializeComponent()
         {
             this.button1 = new System.Windows.Forms.Button();
-            Form1.textBox1 = new System.Windows.Forms.TextBox();
+            this.textBox1 = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // button1
             // 
             this.button1.Location = new System.Drawing.Point(12, 12);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(119, 23);
+            this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 0;
-            this.button1.Text = "面積を求める";
+            this.button1.Text = "button1";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // textBox1
             // 
-            Form1.textBox1.Location = new System.Drawing.Point(12, 41);
-            Form1.textBox1.Multiline = true;
-            Form1.textBox1.Name = "textBox1";
-            Form1.textBox1.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            Form1.textBox1.Size = new System.Drawing.Size(480, 269);
-            Form1.textBox1.TabIndex = 1;
+            this.textBox1.Location = new System.Drawing.Point(12, 41);
+            this.textBox1.Multiline = true;
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(538, 368);
+            this.textBox1.TabIndex = 1;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(504, 322);
-            this.Controls.Add(Form1.textBox1);
+            this.ClientSize = new System.Drawing.Size(562, 421);
+            this.Controls.Add(this.textBox1);
             this.Controls.Add(this.button1);
             this.Name = "Form1";
-            this.Text = "オブジェクト指向演習：四角形と三角形の面積を求める";
+            this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -68,8 +68,7 @@
         #endregion
 
         private System.Windows.Forms.Button button1;
-        //private System.Windows.Forms.TextBox textBox1;
-        public static System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox textBox1;
     }
 }
 
