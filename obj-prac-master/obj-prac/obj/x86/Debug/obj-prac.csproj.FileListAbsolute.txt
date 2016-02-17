@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\game_Data\obj-prac-master\obj-prac\obj\x86\Debug\obj_prac.Form1.resources
+C:\Users\Administrator\Desktop\game_Data\obj-prac-master\obj-prac\obj\x86\Debug\obj_prac.Properties.Resources.resources
+C:\Users\Administrator\Desktop\game_Data\obj-prac-master\obj-prac\obj\x86\Debug\obj-prac.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\game_Data\obj-prac-master\obj-prac\bin\Debug\obj-prac.exe
+C:\Users\Administrator\Desktop\game_Data\obj-prac-master\obj-prac\bin\Debug\obj-prac.pdb
+C:\Users\Administrator\Desktop\game_Data\obj-prac-master\obj-prac\obj\x86\Debug\obj-prac.exe
+C:\Users\Administrator\Desktop\game_Data\obj-prac-master\obj-prac\obj\x86\Debug\obj-prac.pdb
+C:\Users\Administrator\Desktop\game_Data\obj-prac-master\obj-prac\obj\x86\Debug\obj-prac.csprojResolveAssemblyReference.cache
